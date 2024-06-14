@@ -11,7 +11,7 @@ Additionally, I contribute to the growth of local businesses by enhancing their 
 
 This is me in a nutshell - a tech enthusiast with a zest for continuous learning and a knack for helping businesses thrive online.
 ---
-🛠️ ##Skills
+🛠️ Skills
 
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -22,7 +22,7 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 
-🔗 ##Links
+###🔗 Links
 ![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)
 ![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume&logoColor=white)
 ![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
