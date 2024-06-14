@@ -16,14 +16,14 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=white)
+![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
 ![sql](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sql&logoColor=white)
 ### Design Tools
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Links 🔗
-![portfolio](https://img.shields.io/badge/chrome-000000?style=for-the-badge&logo=chrome&logoColor=white)
+![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=chrome&logoColor=white)
 ![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume&logoColor=white)
 ![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=ev.to&logoColor=white)
