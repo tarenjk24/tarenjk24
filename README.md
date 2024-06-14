@@ -13,7 +13,7 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 ---
  ## Skills 🛠️
 
-![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=white)
