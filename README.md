@@ -23,7 +23,7 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Links 🔗
-![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google&logoColor=white)(https://tarenjk24.github.io/port/index.html)
+![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google&logoColor=white https://tarenjk24.github.io/port/index.html)
 ![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume&logoColor=white)
 ![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)
