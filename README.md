@@ -29,3 +29,4 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 [![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=google&logoColor=white)](https://github.com/tarenjk24/port/blob/main/resume.pdf)
 [![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eter-nada-9a457a2bb/)
 [![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eter7)
+[![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/et-art741))
