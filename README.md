@@ -17,7 +17,9 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
-![sql](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sql&logoColor=white)
+![sql](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Design Tools
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
