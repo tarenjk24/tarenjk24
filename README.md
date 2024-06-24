@@ -8,8 +8,8 @@ In 2023, I deepened my programming knowledge by taking the CS50 class, where I l
 Beyond the tech world, I have a penchant for experimenting with new food recipes, tailoring them to my taste, and indulging in gaming during my downtime.
 
 Additionally, I contribute to the growth of local businesses by enhancing their online presence through monitoring and advisory roles.
-[![startup](https://img.shields.io/badge/repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarenjk24/startup)
-[![booksbrightness](https://img.shields.io/badge/repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarenjk24/books)
+[![startup](https://img.shields.io/badge/start-up-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarenjk24/startup)
+[![booksbrightness](https://img.shields.io/badge/books-brightness-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarenjk24/books)
 
 This is me in a nutshell - a tech enthusiast with a zest for continuous learning and a knack for helping businesses thrive online.
 ---
@@ -29,7 +29,6 @@ This is me in a nutshell - a tech enthusiast with a zest for continuous learning
 
 ## Links 🔗
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google&logoColor=white)](https://tarenjk24.github.io/)
-
 [![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eter-nada-9a457a2bb/)
 [![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eter7)
 [![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/et-art741)
