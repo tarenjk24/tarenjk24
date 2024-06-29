@@ -16,18 +16,42 @@
 
 # About Me
 ---
-My name is Eter Ennada, a versatile developer with a passion for creating and learning new technologies. I began my journey in the IT industry during high school, where I explored a range of technologies from software to web development, including JavaScript, PHP, SQL, Pascal, and HTML.
 
-In 2023, I deepened my programming knowledge by taking the CS50 class, where I learned Python, Django, C, and CSS. This experience propelled me into the world of freelance projects, allowing me to apply and expand my skills.
 
-Beyond the tech world, I have a penchant for experimenting with new food recipes, tailoring them to my taste, and indulging in gaming during my downtime.
+I  am Fullstack Developer with a passion  for creating and learning about new technologies. My expertise lies in ** enhancing user interfaces, solving challenges, and improving overall user experiences**. Additionally, I enjoy contributing to the online presence and growth of local businesses.
 
-Additionally, I contribute to the growth of local businesses by enhancing their online presence through monitoring and advisory roles.
-[![startup](https://img.shields.io/badge/start-up-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarenjk24/startup)
-[![booksbrightness](https://img.shields.io/badge/books-brightness-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarenjk24/books)
-
-This is me in a nutshell - a tech enthusiast with a zest for continuous learning and a knack for helping businesses thrive online.
+In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning and a knack for helping businesses thrive online.
 ---
+<details>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+</details>
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+
+  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented features to notify users about new opportunities.
+  - Achieved a user base of X, surpassing initial projections.
+</details>
+
+
+
+
+
+
+
+
+
  ## Skills 🛠️
 
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
