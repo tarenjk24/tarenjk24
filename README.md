@@ -130,9 +130,8 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
     ![](https://github-readme-activity-graph.vercel.app/graph?username=tarenjk24&theme=tokyo-night)
   </div>
-</details>
 
- ### Leetcode
+   ### Leetcode
   <div align="center">
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/tarenjk24?theme=auto&font=baloo&extension=null)
@@ -140,6 +139,17 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
   </div>
 
 
+
+</details>
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:talenjk24@gmail.com">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 
 
 
