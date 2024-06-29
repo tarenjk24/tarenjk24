@@ -144,11 +144,16 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 <details>
   <summary><h2> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Contact.gif" width="37"/> Socials</h2></summary>
 
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google&logoColor=white)](https://tarenjk24.github.io/)
+
 [![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eter-nada-9a457a2bb/)
 [![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eter7)
 [![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/et-art741)
-  
+   <a href="https://github.com/tarenjk24">
+      <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Github.gif" width="100"/>
+    </a>
+     <a href="https://www.linkedin.com/in/eter-nada-9a457a2bb/">
+      <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Linkedin.gif" width="100"/>
+    </a>
 
 
   <p>
