@@ -145,9 +145,6 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
   <summary><h2> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Contact.gif" width="37"/> Socials</h2></summary>
 
 
-
-[![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)]()
-[![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]()
    <a href="https://github.com/tarenjk24">
       <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Github.gif" width="100"/>
     </a>
