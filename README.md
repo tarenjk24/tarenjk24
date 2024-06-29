@@ -65,7 +65,11 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
    
   </span>
+
+  
  ● Designed the main UX/UI using Figma and codepen 
+
+ 
  ● Developed and maintained the beta version.
   
   
@@ -79,6 +83,8 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
    ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
   </span>
+
+  
 ● Enhanced the clients' experience in the shop.
 
 
