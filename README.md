@@ -53,10 +53,14 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
   #### <a href="https://github.com/tarenjk24/startup">Chabab'in</a>
   <span>
-    ![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-    ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
+![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
+   
   </span>
  - Designed the main UX/UI using Figma and codepen 
 - Developed and maintained the beta version.
@@ -64,10 +68,13 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
   
   #### <a href="https://github.com/tarenjk24/books">Books brightness</a>
   <span>
-    ![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-    ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+ ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+   ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
+![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
   </span>
  ● Enhanced the clients' experience in the shop.
 ● Developed and maintained the website.
@@ -85,7 +92,8 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 ![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)
-
+![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
+![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
     
