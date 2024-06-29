@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: tarenjk24/github-activity-readme@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the actual secret name here
+        with:
+          COMMIT_MSG: "update"
+          MAX_LINES: 10
+          COMMIT_NAME: GitHub Activity Readme
