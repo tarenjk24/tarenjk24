@@ -132,14 +132,16 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=tarenjk24&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=tarenjk24&theme=tokyo-night)
-  </div>
+ <summary>
+  <h2><img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/stats.gif" width="32"/> Stats</h2>
+</summary>
+<div align="center">
+  <br> <!-- Add a line break here -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarenjk24&theme=tokyonight&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarenjk24&theme=tokyo-night">
+</div>
 
    ### Leetcode
   <div align="center">
