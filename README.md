@@ -171,11 +171,3 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
     </a>
   </p>
 </details>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4141](https://github.com/hoppscotch/hoppscotch/pull/4141) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#4095](https://github.com/hoppscotch/hoppscotch/pull/4095) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#4141](https://github.com/hoppscotch/hoppscotch/pull/4141#issuecomment-2191454738) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🎉 Merged PR [#4077](https://github.com/hoppscotch/hoppscotch/pull/4077) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. ❗ Opened issue [#4145](https://github.com/hoppscotch/hoppscotch/issues/4145) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-<!--END_SECTION:activity-->
