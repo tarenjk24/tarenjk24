@@ -21,9 +21,9 @@
 
 
 
-I  am Fullstack Developer with a passion  for creating and learning about new technologies. My expertise lies in ** enhancing user interfaces, solving challenges, and improving overall user experiences**. Additionally, I enjoy contributing to the online presence and growth of local businesses.
+I  am Fullstack Developer with a passion  for creating and learning about new technologies. My expertise lies in *enhancing user interfaces, solving challenges, and improving overall user experiences*. Additionally, I enjoy contributing to the online presence and growth of local businesses.
 
-In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning and a knack for helping businesses thrive online.
+**In a nutshell, I’m a tech enthusiast  with a zest for continuous learning and a knack for helping businesses thrive online.**
 
 <details>
     <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
