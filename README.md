@@ -80,7 +80,11 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
   </span>
 ● Enhanced the clients' experience in the shop.
+
+
 ● Developed and maintained the website.
+
+
 ● Designed the UX/UI using figma and codepen.
 
 
