@@ -137,9 +137,9 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 </summary>
 <div align="center">
   <br> <!-- Add a line break here -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarenjk24&theme=tokyonight&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarenjk24&theme=tokyonight&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarenjk24&theme=tokyo-night">
 </div>
 
