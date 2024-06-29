@@ -23,7 +23,7 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning and a knack for helping businesses thrive online.
 ---
 <details>
-  <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+    <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
 
 ### Fullstack
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -49,7 +49,7 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 <details>
   
-  <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+ <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/tarenjk24/startup">Chabab'in</a>
   <span>
@@ -62,8 +62,8 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
    
   </span>
- - Designed the main UX/UI using Figma and codepen 
-- Developed and maintained the beta version.
+ ● Designed the main UX/UI using Figma and codepen 
+ ● Developed and maintained the beta version.
   
   
   #### <a href="https://github.com/tarenjk24/books">Books brightness</a>
@@ -76,7 +76,7 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
    ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
   </span>
- ● Enhanced the clients' experience in the shop.
+● Enhanced the clients' experience in the shop.
 ● Developed and maintained the website.
 ● Designed the UX/UI using figma and codepen.
 
@@ -112,9 +112,8 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/tarenjk24/)
+ 
 </details>
 
 
