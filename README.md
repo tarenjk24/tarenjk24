@@ -172,6 +172,7 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
   </p>
 </details>
 
+<!--START_SECTION:activity-->
 
-
+<!--END_SECTION:activity-->
 
