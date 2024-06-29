@@ -26,7 +26,7 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning and a knack for helping businesses thrive online.
 
 <details>
-    <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+    <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
 
 ### Fullstack
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -52,7 +52,7 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 <details>
   
- <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+ <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/tarenjk24/startup">Chabab'in</a>
   <span>
@@ -122,7 +122,7 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=tarenjk24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -142,32 +142,23 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 </details>
 <details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Socials</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Contact.gif" width="37"/> Socials</h2></summary>
 
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google&logoColor=white)](https://tarenjk24.github.io/)
 [![linked in](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eter-nada-9a457a2bb/)
 [![dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/eter7)
 [![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/et-art741)
   
-</details>
 
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:talenjk24@gmail.com">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
 </details>
 
-
-
-### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-<!--END_SECTION:activity-->
 
 
 
