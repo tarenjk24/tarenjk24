@@ -12,7 +12,7 @@
 <div align="center">
  <img alt="GIF" src="https://github.com/tarenjk24/tarenjk24.github.io/blob/main/icon/coder.jpeg" />
 </div>
----
+
 
 
 
