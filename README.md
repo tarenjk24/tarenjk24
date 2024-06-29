@@ -42,8 +42,64 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 
-  
+ 
 </details>
+
+
+
+<details>
+  
+  <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+
+  #### <a href="https://github.com/tarenjk24/startup">Chabab'in</a>
+  <span>
+    ![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+    ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
+  </span>
+ - Designed the main UX/UI using Figma and codepen 
+- Developed and maintained the beta version.
+  
+  
+  #### <a href="https://github.com/tarenjk24/books">Books brightness</a>
+  <span>
+    ![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+    ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
+  </span>
+ ● Enhanced the clients' experience in the shop.
+● Developed and maintained the website.
+● Designed the UX/UI using figma and codepen.
+
+
+  #### <a href="https://github.com/tarenjk24/first_project">fullstack E-commerce</a>
+  <span>
+
+![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
+![sql](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+
+![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)
+
+
+![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+    
+  </span>
+ ● Enhanced the clients' experience in the shop.
+
+● Designed the UX/UI using figma and codepen.
+
+
+
+
+
+</details>
+
 
 
 <details>
@@ -56,15 +112,6 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 
 
-<details>
-  
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
-
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
-</details>
 
 
 
@@ -72,21 +119,6 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 
 
-
-
- ## Skills 🛠️
-
-![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
-![sql](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-![c](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
-
-### Design Tools
-![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
-![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Links 🔗
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google&logoColor=white)](https://tarenjk24.github.io/)
