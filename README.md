@@ -132,6 +132,13 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
   </div>
 </details>
 
+ ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/tarenjk24?theme=auto&font=baloo&extension=null)
+
+  </div>
+
 
 
 
