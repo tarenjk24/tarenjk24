@@ -23,19 +23,41 @@ I  am Fullstack Developer with a passion  for creating and learning about new te
 In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning and a knack for helping businesses thrive online.
 ---
 <details>
+  <summary><h4> <img align="center" src="https://github.com/tarenjk24/tarenjk24/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+
+### Fullstack
+![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html5&logoColor=white)
+![sql](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![c](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
+![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
+![canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
+
+  
+</details>
+
+
+<details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
 </details>
 
+
+
+
 <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-</details>
-<details>
+  
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
