@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Eter nada</h1>
+  ---
 <h2 align="center">
   
   Fullstack Developer
-  ---
+
   <img src="https://komarev.com/ghpvc/?username=tarenjk24&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   <a href="https://tarenjk24.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
