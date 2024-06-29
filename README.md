@@ -49,7 +49,7 @@ In a nutshell, I’m a **tech enthusiast** with a zest for continuous learning a
 
 <details>
   
- <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4><summary>
+ <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/tarenjk24/startup">Chabab'in</a>
   <span>
